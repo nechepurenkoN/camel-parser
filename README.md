@@ -4,7 +4,7 @@
 
 Let's start with parsing the following set of clauses:
  - `from(expr)`
- - `.setBody().exchange(expr)`
+ - `.setBody().constant(expr)`
  - `.setBody(expr)`
  - `.to(expr)`
  - `.toD(expr)`
